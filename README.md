@@ -27,7 +27,20 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlKor13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/nord_dark/0-profile-details.svg" />
+  <img src="profile-summary-card-output/nord_bright/0-profile-details.svg" alt="Profile details" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/nord_dark/3-stats.svg" />
+  <img src="profile-summary-card-output/nord_bright/3-stats.svg" alt="Stats" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/nord_dark/4-productive-time.svg" />
+  <img src="profile-summary-card-output/nord_bright/4-productive-time.svg" alt="Productive time" width="49%" />
+</picture>
+
 <img height="165" src="https://streak-stats.demolab.com/?user=AlKor13&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" />
 
 </div>
