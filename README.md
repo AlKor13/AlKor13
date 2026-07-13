@@ -12,8 +12,6 @@
 
 - 🏥 Building ed-tech & automation for medical education
 - 🔧 From frontend to `nginx -t` — I ship the whole thing: web apps, Telegram bots, CRM integrations, REST APIs
-- 🛠 Homelab enthusiast: monitoring, backups (3-2-1!), self-hosted everything
-- 📱 Playing with Tauri & mobile on the side
 
 ## 🚀 Tech stack
 
